@@ -1,0 +1,15 @@
+button{
+    min-width: 250px;
+}
+
+input{
+    min-width: 500px;
+    min-height: 50px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    border-radius: 10px;
+    color: black;
+    background-color: aliceblue;
+}
